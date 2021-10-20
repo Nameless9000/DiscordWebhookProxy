@@ -1,12 +1,9 @@
 # DiscordWebhookProxy
 How to use:
 
-download repo
-
-run npm install (or add packages if ur on glitch)
-
-edit .env
-
-run npm start
+1. download repo
+2. run npm install (or add packages if ur on glitch)
+3. edit .env
+4. run npm start
 
 https://glitch.com/edit/#!/roblox-discord-webhook
